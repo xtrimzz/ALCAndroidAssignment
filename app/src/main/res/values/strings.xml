@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cryptoex</string>
+    <!--Strings for Card View -->
+<string name="action_settings">Settings</string>
+<string name="action_add_favourite">Add to Favourites</string>
+<string name="action_play_next">Play Next</string>
+<string name="backdrop_title">ETH/BTC Joints</string>
+<string name="backdrop_subtitle">This season top 20 albums</string>
+
+    <!--String for converter  -->
+    <string name="convert">convert</string>
+    <string name="btc">BTC</string>
+    <string name="eth">ETH</string>
+    <string name="zero">00</string>
+    <string name="ngrtxt">NGR</string>
+    <string name="usdtxt">USD</string>
+    <string name="cadtxt">CAD</string>
+    <string name="eurtxt">EUR</string>
+    <string name="gbptxt">GBP</string>
+    <string name="inrtxt">INR</string>
+
+    <string-array name="currency">
+        <item>NGN</item>
+        <item>USD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>INR</item>
+    </string-array>
+</resources>
